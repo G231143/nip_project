@@ -1,2 +1,2 @@
 # nip_project
-# Ethan was here
+# The program aims to help people manage things more efficiently. Users will be able to use AI to help manage things such as planning vacations, helping manage schedules, and more. The project will be based on OpenAI's API.
